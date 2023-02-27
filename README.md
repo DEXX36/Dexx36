@@ -1,7 +1,8 @@
 ### Hi there 👋
 -👀 Dexx here
-- 🔭 Building with Kotlin 
-- 🌱 Analyzing with Python
-- 👯 Scrum master - I love guiding teams to successful projects
+-🐍 Analyzing with Python
+- 📱 Building with Kotlin 
+- ☕ Developing in Javascript
+- 👯 Scrum master
 - 📫 How to reach me: ogadar@gmail.com
 
